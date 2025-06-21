@@ -11,13 +11,6 @@ A **minimal yet complete** reference implementation of Monte‑Carlo Tree Search
 * Play either against the default heuristic engine **or against any saved model checkpoint**.
 * Tiny CNN (\~6 M params) that runs comfortably on CPU or GPU.
 
-## Installation
-
-```bash
-python -m venv .venv && source .venv/bin/activate   # optional
-pip install -r requirements.txt                      # PyTorch, NumPy, Pygame …
-```
-
 ## Quick Start
 
 | Task                              | Command                                                                 |
